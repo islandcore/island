@@ -1,2 +1,2 @@
 # island
-a students
+a student
